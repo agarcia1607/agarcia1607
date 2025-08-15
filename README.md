@@ -4,7 +4,7 @@
 Estudiante de **Ciencias de la Computación** (UNAL Medellín). Me apasionan el **Machine Learning**, **Aprendizaje por Refuerzo (RL)**, **Optimizaciónn (en particular lineal, combinatorial)**, **Teoría de Grafos**, ** Estadistica Bayesiana**.
 
 
--  **Actualmente**: Realizando mi tesis de pregrado sobre **exploración/explotación en grafos** (algoritmos en línea, RL y grafos bayesianos).  
+-  **Actualmente**: Realizando mi tesis de pregrado sobre **exploración/explotación en grafos** (algoritmos en línea, Aprendizaje por Refuerzo y grafos bayesianos).  
 - **Proyectos**: 
   - **RAG Riesgos** – RAG con FastAPI + React. [Frontend](https://rag-riesgos-frontend.vercel.app) · Repos: [backend](#) · [frontend](#)
   - **Café Score Predictor** – ML para predecir la puntuación de taza de café. [repo](#)
