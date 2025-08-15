@@ -7,7 +7,7 @@ Estudiante de **Ciencias de la Computación** (UNAL Medellín). Me apasionan el 
 -  **Actualmente**: Realizando mi tesis de pregrado sobre **exploración/explotación en grafos** (algoritmos en línea, Aprendizaje por Refuerzo y grafos bayesianos).  
 - **Proyectos**: 
   - **RAG Riesgos** – RAG con FastAPI + React. [Frontend](https://rag-riesgos-frontend.vercel.app) · Repos: [backend](#) · [frontend](#)
-  - **Café Score Predictor** – ML para predecir la puntuación de taza de café. [repo](#)
+  - **Café Score Predictor** – ML para predecir la puntuación de taza de café. [https://github.com/agarcia1607/Cafe_ML](#)
   - **Clasificación de hojas de cacao** – Transfer Learning con ResNet. [repo](#)
   - **GAN 140k Faces** – Implementación libre de GAN. [repo](#)
   - **Bandits & RL** – Notebooks de UCB, Thompson Sampling y Grad Bandits. [repo](#)
