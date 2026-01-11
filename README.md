@@ -33,12 +33,6 @@ Proyecto de **visión por computador** usando **Transfer Learning (ResNet)** par
 
 🔗 Repositorio: https://github.com/agarcia1607/cacao-leaf-classifier
 
----
-
-###  **GAN – 140k Faces**
-Implementación libre de **Redes Generativas Antagónicas (GANs)**, desde arquitectura hasta evaluación.
-
-🔗 Repositorio: https://github.com/agarcia1607/gan-140k-faces
 
 ---
 
@@ -47,12 +41,6 @@ Implementaciones y experimentos con **UCB, Thompson Sampling y Gradient Bandits*
 
 🔗 Repositorio: https://github.com/agarcia1607/bandits-rl-notes
 
----
-
-###  **Auto Summaries NLP**
-Sistema de **resúmenes automáticos** usando **T5, BART y Pegasus**, con interfaz en Streamlit.
-
-🔗 Repositorio: https://github.com/agarcia1607/auto-summaries-nlp
 
 ---
 
