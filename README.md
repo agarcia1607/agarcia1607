@@ -92,7 +92,7 @@ Sistema de **resúmenes automáticos** usando **T5, BART y Pegasus**, con interf
 ---
 
 ## Contacto
-- **LinkedIn:** *(pon aquí tu enlace real)*  
-- **Email:** *(correo profesional)*
+- **LinkedIn:** *www.linkedin.com/in/andrés-felipe-garcía-orrego-17965b218*  
+- **Email:** *agarciaor@unal.edu.co*
 
 
