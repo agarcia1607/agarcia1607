@@ -28,13 +28,6 @@ Stack: **FastAPI · React · Embeddings · LLMs**
 
 ---
 
-###  **Café Score Predictor**
-Modelos de **Machine Learning supervisado** para predecir la puntuación de taza de café, con énfasis en evaluación y validación correcta.
-
-🔗 Repositorio: https://github.com/agarcia1607/Cafe_ML
-
----
-
 ###  **Clasificación de hojas de cacao**
 Proyecto de **visión por computador** usando **Transfer Learning (ResNet)** para clasificación de enfermedades en hojas.
 
