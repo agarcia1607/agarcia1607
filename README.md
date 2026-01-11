@@ -1,6 +1,6 @@
 #  Hola, soy **Andrés Felipe García Orrego**
 
-Estudiante de **Ciencias de la Computación** en la **Universidad Nacional de Colombia – Medellín**.  
+**Cientifico de la Computación** de la **Universidad Nacional de Colombia – Medellín**.  
 Interesado en el **diseño de sistemas de Machine Learning**, **aprendizaje adaptativo**, **optimización** y **algoritmos secuenciales**, con foco en **soluciones aplicadas y rigurosas**.
 
 Trabajo en la intersección entre **ML, RL, búsqueda y sistemas**, priorizando interpretabilidad, métricas correctas y diseño end-to-end.
